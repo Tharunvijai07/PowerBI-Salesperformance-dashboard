@@ -31,6 +31,13 @@ This project presents an interactive Power BI dashboard to analyze sales, profit
 * DAX
 * Data Visualization
 
+## 📸 Dashboard Preview
+
+### Main Dashboard
+![Main](dashboard.png)
+
+### Insights Page
+![Insights](insights.png)
   
 ## 📌 Conclusion
 
